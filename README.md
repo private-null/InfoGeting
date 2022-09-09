@@ -10,3 +10,6 @@
       src/fuzz/file.txt
 ## 子域名扫描需要添加自定义文件
       src/fuzz/url.txt
+
+
+若工具打开部门功能无响应，使用cmd打开
